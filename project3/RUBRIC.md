@@ -120,4 +120,4 @@ Three things worth noticing before you plan your time:
 | §5 README, design justification and hygiene | ___ / 25 |
 | **Total** | **___ / 100** |
 
-**Academic integrity.** This is an individual project with open collaboration (see BRIEF.md). Shared code, queries, charts or README text, or undeclared help, are handled under the UVA honor policy. Late submissions (after 23:59 on Monday 16 November 2026) are penalised under syllabus §3.4.
+**Academic integrity.** This is an individual project with open collaboration (see BRIEF.md). Shared code, queries, charts or README text, or undeclared help, are handled under the UVA honor policy. Late submissions (after 23:59 on Monday 16 November 2026) are penalised under syllabus §3.4

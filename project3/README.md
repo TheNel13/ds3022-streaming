@@ -1,4 +1,4 @@
-# TODO: Bluesky language rhythms: a Kafka streaming pipeline
+Bluesky language rhythms: a Kafka streaming pipeline
 
 **Author:** Nelson Lattimer
 **DS 3022 Data Project 3, Fall 2026**
