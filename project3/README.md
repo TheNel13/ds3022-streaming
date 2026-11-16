@@ -1,6 +1,6 @@
-# TODO: your project title
+# TODO: Bluesky language rhythms: a Kafka streaming pipeline
 
-**Author:** TODO
+**Author:** Nelson Lattimer
 **DS 3022 Data Project 3, Fall 2026**
 
 ## Data source
